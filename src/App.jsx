@@ -6,6 +6,7 @@ import SearchBar from "./components/SearchBar";
 import FilterChips from "./components/FilterChips";
 import JobGrid from "./components/JobGrid";
 import JobDetailPanel from "./components/JobDetailPanel";
+import Footer from "./components/Footer";
 
 const FILTERS = [
   "All",
@@ -122,6 +123,9 @@ function App() {
 
       {/* Detail panel */}
       <JobDetailPanel job={selectedJob} onClose={() => setSelectedJob(null)} />
+
+      {/* Footer */}
+      <Footer />
     </div>
   );
 }
