@@ -51,7 +51,7 @@ A premium dark-themed tech job board built with React, Tailwind CSS, and the Adz
 1. Clone the repository
 
 ```bash
-   git clone https://github.com/YOUR_USERNAME/devhive.git
+   git clone https://github.com/MRxhaqq/DevHive-Tech-Job-Board.git
    cd devhive
 ```
 
