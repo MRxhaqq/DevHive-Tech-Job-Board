@@ -18,7 +18,7 @@ A premium dark-themed tech job board built with React, Tailwind CSS, and the Adz
 
 ## Live Demo
 
-[View live on Vercel](https://your-deployment-url.vercel.app)
+[View live on Vercel](https://dev-hive-tech-job-board.vercel.app/)
 
 ## Features
 
