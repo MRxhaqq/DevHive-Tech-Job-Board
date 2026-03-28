@@ -2,6 +2,20 @@
 
 A premium dark-themed tech job board built with React, Tailwind CSS, and the Adzuna API. Find real-time software engineering roles with instant search, smart filtering, and a sleek slide-in detail panel.
 
+## Screenshots
+
+### Hero Section
+
+![Hero Section](screenshots/dev-hive-hero-section.png)
+
+### Job Listing Grid
+
+![Job Listing Grid](screenshots/dev-hive-job-listing-grid.png)
+
+### Slide-in Detail Panel
+
+![Slide-in Detail Panel](screenshots/dev-hive-Slide-in-detail-panel.png)
+
 ## Live Demo
 
 [View live on Vercel](https://your-deployment-url.vercel.app)
